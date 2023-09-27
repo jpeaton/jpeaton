@@ -1,5 +1,3 @@
-  ![AI ME](https://github.com/jpeaton/jpeaton/assets/144289389/a8a9ccd4-5a41-4f5e-88df-f0c3a67898ac)
-
 **Jeremiah Eaton**
 
 **Software Engineer/Web Designer in Training** -
