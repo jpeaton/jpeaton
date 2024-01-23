@@ -1,44 +1,28 @@
-**Jeremiah Eaton**
+<h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jpeaton">Graduate Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/jeremiahpeaton/">Amateur Programmer</a>
 
-**Cybersecurity Professional in Training** -
-DePaul University
+<h2>About Me</h2>
+  <p>I'm a graduate student at <strong>DePaul University</strong> studying <strong>Cybersecurity</strong> with a concentration in Computer Security. I've gotten into programming with Python, Java, C, HTML, and CSS for classes and in my free time. I'm looking forward to adding more to the list, and deepening my expertise in those already on it. I'm currently in my 2nd quarter of classes learning about Data Structures/Algorithms and Computer Systems. In my free time, I'm hooked on learning Cybersecurity basics—it's my favorite thing right now. I'm excited to add more skills to the mix and see where this journey takes me!.</p>
 
-**About Me**
+<h2>👨‍💻 Software Development Projects:</h2>
 
-👋 Hi , I'm **Jeremiah Eaton**, and I'm a Cybersecurity Graduate Student at DePaul University. I graduated with a Liberal Arts degree for my Undergrad, providing me with strong problem solving and critical thinking skills. I'm originally from Northwest Indiana but now reside in Chicago. I made a career shift to the tech industry after working as a technical recruiter for over a year. I'm currently in my 2nd quarter of classes, and I'm learning about Data Structures and Computer Systems. While there's been a lot of new concepts and languages thrown at me, I love being able to adapt and see my progress.
-**Skills and Technologies I'm Learning🌱**
+- <b>Data Structures and Algorithms Practice</b>
 
-- Languages: Python (proficient), Java (proficient), C (Learning), HTML (familiar/Learning), CSS (familiar)
+<h2> 🤳 Connect with me:</h2>
 
-- Discrete Mathematics
+[<img align="left" alt="JeremiahEaton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- Data Structures / Computer Systems
+[linkedin]: https://linkedin.com/in/jeremiahpeaton
 
-- Responsive Web Design
+<!--
+**jpeaton/jpeaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- JavaScript (Learning)
+Here are some ideas to get you started:
 
-**Interests👀**
-
-- Cybersecurity Principles and Concepts
-
-- Offensive Security Principles
-
-- App Development
-
-- Programming
-
-- Music Production
-
-- Weight Lifting, HIIT Training, Boxing
-
-**How to reach me📫**
-  
-- LinkedIn: https://www.linkedin.com/in/jeremiahpeaton
-  
-- Email: jpeaton2022@gmail.com
-
-<!---
-jpeaton/jpeaton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
