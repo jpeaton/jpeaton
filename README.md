@@ -1,25 +1,28 @@
 **Jeremiah Eaton**
 
-**Software Engineer/Web Designer in Training** -
+**Cybersecurity Professional in Training** -
 DePaul University
-
-Intro-Level Learner
 
 **About Me**
 
-👋 Hi , I'm **Jeremiah Eaton**, and I'm a Software Engineer in training at DePaul University. I'm originally from Northwest Indiana but now reside in Chicago. I made a career shift to the tech industry after working as a technical recruiter for over a year. I'm still currently in my intro-level learning phase and have been doing a lot of intro courses to start understanding enough to create my own projects. I graduated with a Liberal Arts degree for my Undergrad, providing me with strong problem solving and critical thinking skills.
-
+👋 Hi , I'm **Jeremiah Eaton**, and I'm a Cybersecurity Graduate Student at DePaul University. I graduated with a Liberal Arts degree for my Undergrad, providing me with strong problem solving and critical thinking skills. I'm originally from Northwest Indiana but now reside in Chicago. I made a career shift to the tech industry after working as a technical recruiter for over a year. I'm currently in my 2nd quarter of classes, and I'm learning about Data Structures and Computer Systems. While there's been a lot of new concepts and languages thrown at me, I love being able to adapt and see my progress.
 **Skills and Technologies I'm Learning🌱**
 
-- Python
+- Languages: Python (proficient), Java (proficient), C (Learning), HTML (familiar/Learning), CSS (familiar)
 
 - Discrete Mathematics
 
+- Data Structures / Computer Systems
+
 - Responsive Web Design
 
-- JavaScript
+- JavaScript (Learning)
 
 **Interests👀**
+
+- Cybersecurity Principles and Concepts
+
+- Offensive Security Principles
 
 - App Development
 
@@ -27,9 +30,7 @@ Intro-Level Learner
 
 - Music Production
 
-- Web Design
-
-- Video Games
+- Weight Lifting, HIIT Training, Boxing
 
 **How to reach me📫**
   
