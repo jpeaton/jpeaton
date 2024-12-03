@@ -1,11 +1,12 @@
-<h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jpeaton">Graduate Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/jeremiahpeaton/">Amateur Programmer</a>
+<h1>I'm Jeremiah.<br/><a href="https://github.com/jpeaton">Graduate Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/jeremiahpeaton/"></a>
 
 <h2>About Me</h2>
-  <p>I'm a graduate student at <strong>DePaul University</strong> studying <strong>Cybersecurity</strong> with a concentration in Computer Security. I've gotten into programming with Python, Java, C, HTML, and CSS for classes and in my free time. I'm looking forward to adding more to the list, and deepening my expertise in those already on it. I'm currently in my 2nd quarter of classes learning about Data Structures/Algorithms and Computer Systems. In my free time, I'm hooked on learning Cybersecurity basics—it's my favorite thing right now. I'm excited to add more skills to the mix and see where this journey takes me!.</p>
+  <p>I'm a graduate student at <strong>DePaul University</strong> studying <strong>Cybersecurity</strong> with a concentration in Networks & Infrastructure. I'm deepening my knowledge of computer networks, data systems, cyber defense, attack vectors, and best practices. Currently, I'm building a cybersecurity homelab for configuring and testing. I also enjoy participating in cybersecurity challenges and staying updated on the latest news in the field.</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects/Experience:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
+- <b>Home Lab Setup</b>
+- <b>Advent of Cyber Challenge</b>
 
 <h2> 🤳 Connect with me:</h2>
 
