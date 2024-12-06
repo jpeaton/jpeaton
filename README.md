@@ -3,7 +3,7 @@
 <h2>About Me</h2>
   <p>I'm a graduate student at <strong>DePaul University</strong> studying <strong>Cybersecurity</strong> with a concentration in Networks & Infrastructure. I'm deepening my knowledge of computer networks, data systems, cyber defense, attack vectors, and best practices. Currently, I'm building a cybersecurity homelab for configuring and testing. I also enjoy participating in cybersecurity challenges and staying updated on the latest news in the field.</p>
 
-<h2>👨‍💻 Cybersecurity Projects/Experience:</h2>
+<h2>👨‍💻 Cybersecurity Projects/Developments:</h2>
 
 - <b>Home Lab Setup</b>
 - <b>Advent of Cyber Challenge</b>
