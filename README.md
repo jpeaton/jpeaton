@@ -7,6 +7,7 @@
 
 - <b>Home Lab Setup</b>
 - <b>Advent of Cyber Challenge</b>
+- <b>Web Server Configuration/Hardening</b>
 
 <h2> 🤳 Connect with me:</h2>
 
